@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "f6j0n9G30qJWFJtBvuVh4rNM+z5VkvRJ8WBoneOcjzY=",
+  "Source": "All_Spice",
+  "BasePath": "_content/All_Spice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "All_Spice\\wwwroot",
+      "Source": "All_Spice",
+      "ContentRoot": "C:\\source\\codeworks\\week-10\\All_Spice\\All_Spice\\wwwroot\\",
+      "BasePath": "_content/All_Spice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\source\\codeworks\\week-10\\All_Spice\\All_Spice\\wwwroot\\index.html",
+      "SourceId": "All_Spice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\source\\codeworks\\week-10\\All_Spice\\All_Spice\\wwwroot\\",
+      "BasePath": "_content/All_Spice",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
